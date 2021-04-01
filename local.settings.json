@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "KEY_VAULT_URL": "https://<VAULT_NAME>.vault.azure.net"
+  }
+}
